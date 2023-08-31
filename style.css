@@ -1,0 +1,52 @@
+body{
+    background-color:aliceblue
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    color:maroon;
+    font-size: 30px;
+}
+.ap1{
+    color:CornFlowerBlue;
+}
+.ap2{
+    color:Cyan;
+}
+.ap3{
+    color:DarkSeaGreen;
+}
+.ap4{
+    color:DarkSlateGray;
+}
+.ap5{
+    color:Olive;
+}
+#ul1{
+    background-color:Bisque;
+}
+#ul2{
+    background-color:coral;
+}
+#ul3{
+    background-color:DarkSalmon
+}
+#ul4{
+    background-color:IndianRed;
+}
+#ul5{
+    background-color:Plum;
+}
+table{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
+tr{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid black;
+}
