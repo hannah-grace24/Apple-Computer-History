@@ -50,3 +50,16 @@ tr{
 td{
     border: 2px solid black;
 }
+.header{
+    color:red;
+    font-size:40px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+.header:hover {
+    color:SkyBlue;
+}
+.main{
+    text-align: center;
+}
