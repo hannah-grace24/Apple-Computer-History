@@ -114,3 +114,12 @@ td{
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
+
+
+
+
+
+
+p{
+    text-align: left;
+}
